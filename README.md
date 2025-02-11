@@ -32,6 +32,7 @@
 PongShowdown é um jogo baseado em Pong (1972), o primeiro jogo da história, que tem duas raquetes de lados opostos da tela, uma para cada jogador, o objetivo do jogo é rebater a bola e acertar a parede oposta, marcando um ponto. 
 
 
+<img src="pong.gif" alt="PongShowdown" width="500"/>
 
 ## 🤠 Duelos do Velho Oeste
 PongShowdown traz também uma nova funcionalidade: após certo tempo de jogo, inicia-se o modo Showdown, o objetivo dos jogadores muda de rebater a bola para acertar a raquete do oponente com “balas”, que podem ser lançadas com a tecla “A” (Jogador 1) ou com a tecla “L” (Jogador 2). As pontuações de acertos na parede e de vezes que acertou o inimigo vão ser somadas e registradas em um ranking, que pode ser acessado na páginal inicial.
